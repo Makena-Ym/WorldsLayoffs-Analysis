@@ -70,4 +70,4 @@ To complete this analysis, I utilized advanced SQL features including:
 ---
 
 ### 👨‍💻 Author
-**YvonneMakena** *Data Analyste*
+**Yvonne Makena** *Data Analyst*
